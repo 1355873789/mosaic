@@ -47,7 +47,7 @@ h2 {
 
 - 都下载完之后先安装Creative Cloud :simple-adobecreativecloud:<br>
 
-  ![](https://vip.123pan.cn/1821083851/ocoolai/pic/adobe-1.png){ width="500" }
+  ![](https://vip.123pan.cn/1821083851/ocoolai/pic/adobe-1.png)
 <br>
 
 - 在安装的过程中解压Adobe-GenP压缩包到一个你能找到的文件夹
